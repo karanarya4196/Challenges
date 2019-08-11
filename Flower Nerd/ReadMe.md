@@ -12,7 +12,11 @@ We are given a large class of flowers, 102 to be precise. Build a flower classif
 The data folder consists of 2 folders and 3 CSV files
 
 train - Contains 18540 images from 102 categories of flowers
+
 test  - Contains 2009 images
+
 train.csv - Contains 2 columns and 18541 rows (including the headers), which consists of image id and the true label for each of the images in the train folder
+
 test.csv - Contains the image id for the images present in test folder for which the true label needs to be predicted
+
 sample_submission.csv - Specifies the format for the submission file
