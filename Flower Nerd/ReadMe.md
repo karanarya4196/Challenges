@@ -9,7 +9,7 @@ The application of deep learning is rapidly growing in the field of computer vis
 
 We are given a large class of flowers, 102 to be precise. Build a flower classification model which is discriminative between classes but can correctly classify all flower images belonging to the same class. There are a total of 20549 (train + test) images of flowers. Predict the category of the flowers present in the test folder with good accuracy.
 
-### The data folder consists of 2 folders and 3 CSV files
+## Data Description
 
 train - Contains 18540 images from 102 categories of flowers
 
